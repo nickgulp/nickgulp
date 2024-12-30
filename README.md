@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nickgulp
+- 👋 Hi, I’m Francisco Rodriguez
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on challenging projects that will help me expand my knowledge
